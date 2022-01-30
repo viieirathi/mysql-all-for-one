@@ -1,6 +1,6 @@
 SELECT 
     supplier_id
 FROM
-    purchase_orders
+    northwind.purchase_orders
 WHERE
     supplier_id = 1 or supplier_id = 3;
