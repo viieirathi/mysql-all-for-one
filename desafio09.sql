@@ -1,0 +1,1 @@
+SELECT NOTES FROM purchase_orders WHERE notes <> 'null';
