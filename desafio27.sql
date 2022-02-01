@@ -1,0 +1,1 @@
+DELETE FROM nortwhind.order_details;
